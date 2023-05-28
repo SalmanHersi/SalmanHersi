@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js and Typescript**
 
-- 👨‍💻 All of my projects are available at <a href="https://twitter.com/namlase" target="blank">(www.salmanhersi.com)
+- 👨‍💻 All of my projects are available at <a href="https://twitter.com/namlase" target="_blank">(www.salmanhersi.com), currently under-contructions but there lies my old work
 
 - ⚡ Fun fact **I know everything about the Washington Wizards**
 
