@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **Node.js and Typescript**
 
-- 👨‍💻 All of my projects are available at (www.salmanhersi.com), currently under-contructions but there lies my old work
+- 👨‍💻 My entire portfolio can be found at (www.salmanhersi.com), where you can currently explore my ongoing projects as well as my previous work. 
+I am currently in the process of constructing a new portfolio to showcase my latest progress, as this existing one is slightly outdated
 
 - ⚡ Fun fact **I know everything about the Washington Wizards**
 
