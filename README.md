@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salman Hersi</h1>
 <h3 align="center">I am a Toronto-based IT professional and web developer</h3>
 
-- 🌱 I’m currently learning **Node.js and Typescript**
+- 🌱 I’m currently learning **Node.js, React, and Typescript**
 
 - 👨‍💻 My entire portfolio can be found at (www.salmanhersi.com), where you can currently explore my ongoing projects as well as my previous work. 
 *I am currently in the process of constructing a new portfolio to showcase my latest progress, as this existing one is slightly outdated*
