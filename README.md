@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js, React, and Typescript**
 
-- 👨‍💻 My entire portfolio can be found at (www.salmanhersi.com), where you can currently explore my ongoing projects as well as my previous work. 
-*I am currently in the process of constructing a new portfolio to showcase my latest progress, as this existing one is slightly outdated*
+- 👨‍💻 Hey there! I'm all about designing websites that feel like a breeze to use. I believe in creating digital spaces that are not only easy on the eyes but also a joy to navigate.
 
 - ⚡ Fun fact **I know everything about the Washington Wizards**
 
