@@ -37,11 +37,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-### Recent Projects
-- [Secure Threat Analyzer](https://github.com/yourusername/secure-threat-analyzer): LLM-based tool for anomaly detection in logs, reducing false positives by 15% (Python, AWS).  
-- [VulnScan App](https://github.com/yourusername/vulnscan): Vulnerability scanner prototype with automated reporting (Cypress, Next.js)—simulates breach prevention.  
-- View my full repo for more cybersecurity-focused projects and contributions.
-
 ### Professional Highlights
 - **Security Consultant at Miipe**: Led audits reducing threats by 40%; optimized compliance for 20+ projects.  
 - **Security Advisor at Mosaic**: Boosted secure traffic by 30% for 250 clients using Cloudflare and Zscaler.  
