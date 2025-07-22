@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my cybersecurity projects and contributions below— from secure app prototypes to vulnerability scanners.
 
-- ⚡ Fun fact **I'm a strategy enthusiast, analyzing NBA plays (Go Wizards!) like I do cyber threats—spotting patterns to stay one step ahead.**
+- ⚡ Fun fact **I'm a strategy enthusiast, analyzing NBA plays (Go Hawks!) like I do cyber threats—spotting patterns to stay one step ahead.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
