@@ -1,47 +1,66 @@
-<h1 align="center">Hi 👋, I'm Salman Hersi</h1>
-<h3 align="center">Toronto-based Cybersecurity Analyst specializing in vulnerability assessment, threat detection, and risk mitigation</h3>
 
-- 🔭 I’m a dedicated cybersecurity professional with CompTIA Security+ certification, focused on protecting digital assets through secure implementations, compliance auditing, and incident response. Proven results include reducing breaches by up to 40% in e-commerce and IT environments.
+  <h1 align="center">Hi 👋, I'm Salman Hersi</h1>
+  <h3 align="center">Cloud + IAM security. Zero Trust. Automation.</h3>
 
-- 🌱 I’m currently learning **AWS Cloud Security, Penetration Testing (e.g., with Kali Linux), and AI/LLM for Threat Intelligence**
+  I build automated defenses for cloud environments and design Zero Trust access that scales.
 
-- 👨‍💻 Check out my cybersecurity projects and contributions below— from secure app prototypes to vulnerability scanners.
+  - 🔭 I design Zero Trust architectures and secure cloud environments for enterprise clients.
+  Currently focused on IAM strategy and security automation at Miipe Quality Solutions.
 
-- ⚡ Fun fact **I'm a strategy enthusiast, analyzing NBA plays (Go Hawks!) like I do cyber threats—spotting patterns to stay one step ahead.**
+  - 🌱 Outside client work, I build automations that help businesses move faster and stay secure.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/namlase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namlase" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/salmanhersi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salmanhersi/" height="30" width="40" /></a>
-</p>
+  - 📝 I write about cloud security and detection engineering on my
+  [website](https://salmanhersi.com)
 
-### Certifications
-- CompTIA Security+ (SY0-601) – Issued 2023  
-- Cisco Cybersecurity Essentials – Issued [Year, e.g., 2024]  
-- CISSP – Expected Q3 2025  
+  - ⚡ Fun fact: **Still a strategy enthusiast—analyzing NBA plays like I do threat models. Go
+  Hawks!**
 
-### Key Skills
-**Technical:** Vulnerability Assessment, Threat Detection, Incident Response, Risk Mitigation, Endpoint Security, Compliance Auditing, Cypress (Automated Testing), Shopify (Secure Platforms), Cloudflare (Web Application Firewalls), Sucuri (Malware Scanning), Google Analytics (Threat Monitoring), AI (Threat Intelligence), LLM (Security Analytics), AWS (Cloud Security), SIEM Tools, Python (Security Scripting), JavaScript (Secure Apps)  
-**Soft:** Strategic Planning, Analytical Thinking, Problem-Solving, Team Collaboration, Communication  
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+  <a href="https://twitter.com/namlase" target="blank"><img align="center"
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ima
+  ges/icons/Social/twitter.svg" alt="namlase" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/salmanhersi" target="blank"><img align="center"
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ima
+  ges/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
+  ### What I Do
+  - **Cloud security (AWS)** – Securing accounts, workloads, and data in AWS environments
+  - **IAM strategy + governance** – Designing least-privilege access and policy frameworks
+  - **Zero Trust architecture** – Building identity-centric security models
+  - **Security automation** – Lambda, EventBridge, n8n workflows for detection and response
+  - **Detection + response workflows** – Turning alerts into actionable playbooks
 
-### Professional Highlights
-- **Security Consultant at Miipe**: Led audits reducing threats by 40%; optimized compliance for 20+ projects.  
-- **Security Advisor at Mosaic**: Boosted secure traffic by 30% for 250 clients using Cloudflare and Zscaler.  
-- Check my [LinkedIn](https://www.linkedin.com/in/salmanhersi) or [portfolio site](https://yourwebsite.com) for full experience.
+  ### Certifications
+  - Okta Certified Professional
+  - AWS Solutions Architect Associate
+  - CompTIA Security+
+  - CISSP – In progress
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+  ### Languages and Tools
+  <p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebs
+  ervices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+  alt="python" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.gith
+  ubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+  alt="linux" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
+  src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubuser
+  content.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"
+  width="40" height="40"/> </a>
+  </p>
+
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=SalmanHersi&label=Profile%20views&color=0e75b6&st
+  yle=flat" alt="profile views" />
+  </p>
