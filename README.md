@@ -18,7 +18,6 @@ I build automated defenses for cloud environments and design Zero Trust access t
 - 🔭 **Currently:** Designing Zero Trust architectures and securing cloud environments at **Miipe Quality Solutions**
 - 🌱 **Side projects:** Building automations that help businesses move faster and stay secure
 - 📝 **Writing:** Cloud security and detection engineering on [salmanhersi.com](https://salmanhersi.com)
-- ⚡ **Fun fact:** Still a strategy enthusiast—analyzing NBA plays like I do threat models. Go Hawks!
 
 ---
 
